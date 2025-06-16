@@ -1,4 +1,4 @@
-# Solo Developer Configuration
+#(1st version, dont reccomend at all) Solo Developer Configuration
 
 ## Working Style
 - I work alone, so skip team coordination stuff
